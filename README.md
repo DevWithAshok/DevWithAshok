@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi 👋 I'm Ashok Kumar Reddy
 
-<!--
-**DevWithAshok/DevWithAshok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 3rd Year  
+🏫 Study World College of Engineering, Coimbatore  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+- HTML
+- CSS
+- Bootstrap
+- Python
+- SQL
+
+
+Currently Learning
+- Full Stack Development
+- Python Programming
+- Machine Learning Basics
+
+
+Projects
+- ResumeMate (AI Resume Generator)
+- Fake News Detection using NLP
+- Frontend Daily UI Practice
+
+
+Connect With Me
+LinkedIn: https://linkedin.com/in/ashok-kumar-reddy-chinnavula-48698728a  
+Email: ashok052606@gmail.com
