@@ -1,4 +1,4 @@
-Hi 👋 I'm Ashok Kumar Reddy
+Hi I'm Ashok Kumar Reddy
 
 🎓 CSE Student | 3rd Year  
 🏫 Study World College of Engineering, Coimbatore  
