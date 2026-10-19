@@ -1,6 +1,6 @@
 Hi I'm Ashok Kumar Reddy
 
-🎓 CSE Student | 3rd Year  
+🎓 CSE Student | 4th Year  
 🏫 Study World College of Engineering, Coimbatore  
  
 
@@ -10,6 +10,7 @@ Skills
 - Bootstrap
 - Python
 - SQL
+- JavaScript
 
 
 Currently Learning
